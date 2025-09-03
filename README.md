@@ -1,0 +1,1 @@
+A real-world vehicle dealership system developed with ASP.NET Core and Angular. Vega provides features such as secure authentication, CRUD operations for car listings, advanced filtering, and responsive design, making it a complete example of modern full-stack web app development. 
